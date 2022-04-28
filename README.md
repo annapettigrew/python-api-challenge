@@ -15,3 +15,8 @@
 #### - A max temp lower than 80 but higher than 70
 #### - Wind Speeds les than 10mph
 #### - Zero Cloudiness
+
+## Observations
+### - The closer you get to the equator line, the higher the temperature will be.
+### - The further away from the equator line you get, there is a chance of higher wind speeds.
+### - In the Southern Hemisphere, it gets more humid the more you move away from the equator line.
